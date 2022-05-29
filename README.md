@@ -7,7 +7,26 @@
 
 
 
-## Features
+## Features (planned/current)
+---
+### Submissions
+
+Ability to log submissions through`/submissions` command. Logs modal submission to a json file.
 
 ---
-As of now, there is only one command `/submission` which uses the Discord Modal popup to send me a submission with your name and a description of your idea.
+### SableSearch
+
+
+An ever growing collection of categorically grouped resources for ease of access. Persists in a ephemeral button menu and contains the the following options as examples:
+  ```
+  - Useful opensource projects (such as alternatives to expensive closed source API's)
+  -LGBT resources
+  -Miscellanious websites for fun or utility
+  ```
+  > `/sablesearch submit` will allow you to submit resources for adding to the list.
+
+---
+
+### ImageMagik
+
+Use of [Image Magik](https://imagemagick.org/) for manipulating images in chat.
